@@ -1,0 +1,13 @@
+{
+  "address": "127.0.0.1",
+  "app":"src/app/Twitter.apk",
+  "appPackage":"com.twitter.android.TwitterMobileApp",
+  "appWaitPackage":"com.twitter.android.TwitterMobileApp",
+  "automationName":"Appium",
+  "deviceName":"Pixel XL",
+  "debugLogSpacing": true,
+  "fullReset": true,
+  "platformName": "Android",
+  "platformVersion":"7.1",
+  "port": "4723"
+}
